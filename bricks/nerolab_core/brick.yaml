@@ -1,0 +1,5 @@
+name: nerolab_core
+description: A new brick created with the Mason CLI.
+vars:
+  - project_name
+  - package_id
